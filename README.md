@@ -6,7 +6,7 @@ This project is still in **early development** – at the moment it only contain
 ---
 
 ## 📂 Project Structure
-
+```
 .
 ├── bin
 │   └── main.rb              # Entry point for running the wallet
@@ -23,7 +23,7 @@ This project is still in **early development** – at the moment it only contain
 │       └── wallet.rb        # Wallet logic (keys, balances, transactions)
 ├── LICENSE                  # GPL-3.0 License
 └── README.md
-
+```
 ---
 
 ## 🚧 Status
