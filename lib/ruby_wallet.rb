@@ -1,7 +1,7 @@
 # importing utilities
-require_relative "ruby_wallet/cli"
-require_relative "ruby_wallet/wallet"
-require_relative "ruby_wallet/utils"
+require_relative "cli/cli"
+require_relative "wallet"
+require_relative "utils"
 
 # importing the networks/blockchains
 require_relative "ruby_wallet/network_loader"

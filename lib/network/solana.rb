@@ -1,6 +1,6 @@
 require_relative "network"
 
-module RubyWallet
+module Network
   class SolanaBlockchain < Blockchain
   end
 end

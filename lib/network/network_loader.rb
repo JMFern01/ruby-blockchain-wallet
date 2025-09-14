@@ -4,7 +4,7 @@ require_relative "solana"
 require_relative "xlm"
 
 
-module RubyWallet
+module Network
   NETWORKS = {
               "bitcoin"  => BitcoinBlockchain,
               "ethereum" => EthereumBlockchain,

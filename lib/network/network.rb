@@ -3,7 +3,7 @@
 # Holds the interaction with the network for each blockchain
 # supported by the wallet
 
-module RubyWallet
+module Network
   class Blockchain
     attr_reader :address
 

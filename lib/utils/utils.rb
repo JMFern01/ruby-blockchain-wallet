@@ -1,4 +1,2 @@
-module RubyWallet
-  class Utils
-  end
+module Utils
 end
